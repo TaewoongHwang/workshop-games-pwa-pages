@@ -1,1 +1,0 @@
-const e=[{type:"liar",name:"라이어게임",path:"/liar",icon:"cards",description:"같은 제시어, 한 사람의 다른 비밀. 설명을 듣고 라이어를 찾아요."},{type:"charades",name:"몸으로 말해요",path:"/charades",icon:"people",description:"말 대신 몸으로! 시간 안에 맞히고 팀 점수를 쌓아요."},{type:"questionCards",name:"질문카드",path:"/questions",icon:"book",description:"가벼운 취향부터 새로운 생각까지, 카드 한 장으로 대화를 열어요."}];export{e as c};
