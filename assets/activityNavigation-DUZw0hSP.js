@@ -1,0 +1,1 @@
+import{p as n}from"./index-tNLmyRvf.js";function m(a){const e=a?.round&&a.round.phase!=="result"?"liar":a?.activity?.phase==="playing"?a.activity.gameType:null,t=n.find(p=>p.type===e);return t?{name:t.name,path:t.path}:null}export{m as a};
