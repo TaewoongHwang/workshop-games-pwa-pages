@@ -1,0 +1,1 @@
+import{T as e}from"./TimedWordRound-CdbatOiO.js";import{d as o,l as r,o as t}from"./index-LkGiLLG-.js";import"./useWakeLock-DySkTgPJ.js";import"./useGameClock-BKkPTdIB.js";const d=o({__name:"SpeedQuizView",setup(p){return(a,m)=>(t(),r(e,{"game-type":"speedQuiz"}))}});export{d as default};
