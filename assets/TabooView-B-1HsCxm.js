@@ -1,1 +1,0 @@
-import{T as o}from"./TimedWordRound-B7WzTWxe.js";import{d as e,l as t,o as r}from"./index-B3VxsTKJ.js";import"./useWakeLock-bXurDR6F.js";import"./useGameClock-Dbeq8lwT.js";const _=e({__name:"TabooView",setup(a){return(m,p)=>(r(),t(o,{"game-type":"taboo"}))}});export{_ as default};
