@@ -1,0 +1,1 @@
+import{y as p}from"./index-Diyus5HS.js";function m(a){const e=a?.round&&a.round.phase!=="result"?"liar":a?.activity?.phase==="playing"?a.activity.gameType:null,t=p.find(n=>n.type===e);return t?{name:t.name,path:t.path}:null}export{m as a};
